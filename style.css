@@ -1,0 +1,26 @@
+ul{
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+li {
+    display: inline;
+    padding: 16px;
+    text-transform: uppercase;
+    
+}
+
+li a:hover{
+    background-color: peru;
+animation: alternate-reverse;
+
+    
+}
+
+.image{
+    border-radius: 50%;
+   height: 200px;
+    width: 200px;
+
+}
